@@ -1,7 +1,7 @@
 # Video game project
 
 ### Project Overview
-A guided project completed through Data Camp; the objective was to explore the top 400 video games created between 1977 and 2020. The task was to compare game sales with critic and user reviews to establish improvement and growth.
+A guided project completed through Data Camp; the objective was to explore the top 400 video games created between 1977 and 2020. The task was to compare game sales with critic and user reviews to establish improvement and growth over time, and identify the 'golden age' of video games.
 
 ### Data Sources
 The primary datasets used for this analysis: 'game_sales_data.csv' and 'game_reviews.csv'
