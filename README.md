@@ -31,7 +31,7 @@ LIMIT 10;
 ### Results/findings
 The results can be summarized as follows:
 1. The best selling games were sold between 1985 and 2017
-2.
+2. The best critically acclaimed games came from the early 90s (1990-95)
 3.
 
 ### Recommendations/further study
