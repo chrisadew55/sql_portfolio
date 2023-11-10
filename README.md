@@ -42,7 +42,7 @@ LIMIT 10;
 The results can be summarized as follows:
 1. The best selling games were sold between 1985 and 2017
 2. The best critically acclaimed games came from the early 90s (1990-95)
-3. Based on critic and user reviews in the given dataset, as well as game sales - 2008 is the golden age of video games!
+3. Based on critic and user reviews in the given dataset, as well as game sales - **2008** is the golden age of video games!
 
 ### Ideas for further study
 Downloading the full dataset (exceeding 400 games) from [kaggle](https://kaggle.com) to explore the changes in game sales and reviews from 2008 to 2023
