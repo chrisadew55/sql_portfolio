@@ -30,7 +30,7 @@ LIMIT 10;
 
 ### Results/findings
 The results can be summarized as follows:
-1.
+1. The best selling games were sold between 1985 and 2017
 2.
 3.
 
