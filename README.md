@@ -10,7 +10,7 @@ The primary datasets used for this analysis: game_sales_data.csv and game_review
 - PostGreSQL
 - Selecting columns from a table
 - Filtering rows and grouped data
-- Using aggregation functions
+- Using aggregate functions
 - Performing calculations on groups of rows
 - Left and inner joins
 - Union and intercept
