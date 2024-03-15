@@ -8,6 +8,7 @@
 - [Interesting code of note](#interesting-code-of-note)
 - [Findings](#findings)
 - [Ideas for further study](#ideas-for-further-study)
+- [Read the Jupyter Notebook!](https://github.com/chrisadew55/video_games_sql/blob/main/video%20game%20project%20notebook.ipynb)
 ---
 
 ### Project overview
