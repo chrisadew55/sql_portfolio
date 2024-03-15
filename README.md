@@ -1,4 +1,4 @@
-# Video game project
+# Golden age of video games
 
 ## Table of contents
 
